@@ -15,12 +15,6 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_1134D41549234F5BB52F62EA1A3914FF"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_1654CE31FB84118820F4B9C912394B35"
         "OwnerKey" = "8:_2D2811C58C844F83AF5884F72CE84226"
         "MsmSig" = "8:_UNDEFINED"
@@ -28,6 +22,12 @@
         "Entry"
         {
         "MsmKey" = "8:_2D2811C58C844F83AF5884F72CE84226"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E2FC650F41814795B82995B3B7C90C0E"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -68,6 +68,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                }
             }
         }
         "Release"
@@ -92,6 +100,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                }
             }
         }
     }
@@ -122,26 +138,6 @@
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1134D41549234F5BB52F62EA1A3914FF"
-            {
-            "SourcePath" = "8:..\\..\\images\\ampulheta.ico"
-            "TargetName" = "8:ampulheta.ico"
-            "Tag" = "8:"
-            "Folder" = "8:_74F0FC7C3E504385AB8023259B34BFD8"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_1654CE31FB84118820F4B9C912394B35"
             {
             "AssemblyRegister" = "3:1"
@@ -171,6 +167,26 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E2FC650F41814795B82995B3B7C90C0E"
+            {
+            "SourcePath" = "8:..\\..\\images\\ampulheta_48x48.ico"
+            "TargetName" = "8:ampulheta_48x48.ico"
+            "Tag" = "8:"
+            "Folder" = "8:_74F0FC7C3E504385AB8023259B34BFD8"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
         }
@@ -361,7 +377,7 @@
             "Target" = "8:_2D2811C58C844F83AF5884F72CE84226"
             "Folder" = "8:_4ACCEDE12AFB4B03AFAB79F41ABFC940"
             "WorkingFolder" = "8:_74F0FC7C3E504385AB8023259B34BFD8"
-            "Icon" = "8:_1134D41549234F5BB52F62EA1A3914FF"
+            "Icon" = "8:_E2FC650F41814795B82995B3B7C90C0E"
             "Feature" = "8:"
             }
             "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_E9F07BA05B484605BC211BC53AE0BF18"
@@ -375,7 +391,7 @@
             "Target" = "8:_2D2811C58C844F83AF5884F72CE84226"
             "Folder" = "8:_1420DA7D6CE543AFAF91C67D7D1C0650"
             "WorkingFolder" = "8:_74F0FC7C3E504385AB8023259B34BFD8"
-            "Icon" = "8:_1134D41549234F5BB52F62EA1A3914FF"
+            "Icon" = "8:_E2FC650F41814795B82995B3B7C90C0E"
             "Feature" = "8:"
             }
         }
@@ -779,7 +795,7 @@
         {
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_2D2811C58C844F83AF5884F72CE84226"
             {
-            "SourcePath" = "8:..\\Temporizados\\obj\\Release\\Temporizados.exe"
+            "SourcePath" = "8:..\\Temporizados\\obj\\Debug\\Temporizador.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_74F0FC7C3E504385AB8023259B34BFD8"

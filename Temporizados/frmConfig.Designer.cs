@@ -61,7 +61,7 @@
             // 
             this.btnOk.AutoSize = true;
             this.btnOk.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnOk.Image = global::Temporizados.Properties.Resources.OK;
+            this.btnOk.Image = global::Temporizador.Properties.Resources.OK;
             this.btnOk.Location = new System.Drawing.Point(274, 18);
             this.btnOk.Name = "btnOk";
             this.btnOk.Size = new System.Drawing.Size(39, 30);

@@ -64,7 +64,7 @@
             // 
             this.lblOnOff.Cursor = System.Windows.Forms.Cursors.Hand;
             this.lblOnOff.ForeColor = System.Drawing.Color.Black;
-            this.lblOnOff.Image = global::Temporizados.Properties.Resources.ligar;
+            this.lblOnOff.Image = global::Temporizador.Properties.Resources.ligar;
             this.lblOnOff.Location = new System.Drawing.Point(113, 8);
             this.lblOnOff.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblOnOff.Name = "lblOnOff";
@@ -89,7 +89,7 @@
             // 
             this.lblIcon.Cursor = System.Windows.Forms.Cursors.AppStarting;
             this.lblIcon.ForeColor = System.Drawing.Color.Black;
-            this.lblIcon.Image = global::Temporizados.Properties.Resources.relogio;
+            this.lblIcon.Image = global::Temporizador.Properties.Resources.relogio;
             this.lblIcon.Location = new System.Drawing.Point(7, 5);
             this.lblIcon.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblIcon.Name = "lblIcon";
@@ -122,7 +122,7 @@
             // 
             // pararToolStripMenuItem
             // 
-            this.pararToolStripMenuItem.Image = global::Temporizados.Properties.Resources.configuracao1;
+            this.pararToolStripMenuItem.Image = global::Temporizador.Properties.Resources.configuracao1;
             this.pararToolStripMenuItem.Name = "pararToolStripMenuItem";
             this.pararToolStripMenuItem.Size = new System.Drawing.Size(165, 30);
             this.pararToolStripMenuItem.Text = "Configuração";
@@ -135,7 +135,7 @@
             // 
             // sobreToolStripMenuItem
             // 
-            this.sobreToolStripMenuItem.Image = global::Temporizados.Properties.Resources.sobre;
+            this.sobreToolStripMenuItem.Image = global::Temporizador.Properties.Resources.sobre;
             this.sobreToolStripMenuItem.Name = "sobreToolStripMenuItem";
             this.sobreToolStripMenuItem.Size = new System.Drawing.Size(165, 30);
             this.sobreToolStripMenuItem.Text = "Sobre";
@@ -143,7 +143,7 @@
             // 
             // fInalizarToolStripMenuItem
             // 
-            this.fInalizarToolStripMenuItem.Image = global::Temporizados.Properties.Resources.porta_de_saida;
+            this.fInalizarToolStripMenuItem.Image = global::Temporizador.Properties.Resources.porta_de_saida;
             this.fInalizarToolStripMenuItem.Name = "fInalizarToolStripMenuItem";
             this.fInalizarToolStripMenuItem.Size = new System.Drawing.Size(165, 30);
             this.fInalizarToolStripMenuItem.Text = "Finalizar";

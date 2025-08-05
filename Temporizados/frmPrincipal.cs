@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
-using Temporizados.Properties;
+using Temporizador.Properties;
 
 namespace Temporizados
 {
